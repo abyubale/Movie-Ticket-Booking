@@ -1,0 +1,9 @@
+{
+  "HOME": "/",
+  "LOGIN": "login",
+  "SIGNUP": "signup",
+  "RELEASED_MOVIES": "all-movies",
+  "UPCOMING_MOVIES": "now-showing",
+  "MOVIE_DETAILS": "movie-details",
+  "BOOK_SEATS": "book-seats"
+}
